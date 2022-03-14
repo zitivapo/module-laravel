@@ -35,9 +35,9 @@
         "codeception/codeception": "^5.0"
     },
     "require-dev": {
-        "codeception/module-asserts": "^2.0",
-        "codeception/module-rest": "^2.0",
-        "laravel/framework": "^6.0 | ^7.0 | ^8.0",
+        "codeception/module-asserts": "^3.0",
+        "codeception/module-rest": "^3.0",
+        "laravel/framework": "^6.0 | ^7.0 | ^8.0 | ^9.0",
         "vlucas/phpdotenv": "^3.6 | ^4.1 | ^5.2"
     },
     "autoload": {
