@@ -18,16 +18,6 @@
         }
     ],
     "minimum-stability": "RC",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/zitivapo/lib-innerbrowser"
-        },
-        {
-            "type": "composer",
-            "url": "https://packages.dvipdev.com/"
-        }
-    ],
     "require": {
         "php": "^8.0",
         "ext-json": "*",
